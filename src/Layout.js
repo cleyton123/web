@@ -9,7 +9,7 @@ function Layout() {
       <p><strong>BEM-VINDO</strong></p>
       <p>O objetivo dessa aplicação é ajudar turistas a conhecerem Recife e seus pontos turisticos.</p>
       <p><strong>Nomes da equipe : </strong>Cleyton,Italo e Elion</p>
-      <p><strong>Link do repositório: </strong></p>
+      <p><strong>Link do repositório: </strong> https://github.com/cleyton123/web.git</p>
       
          
          <nav>
